@@ -11,8 +11,8 @@ DAX (Data Analysis Expressions) – Created custom measures and calculations for
 Data Modeling – Established relationships between tables to enable accurate reporting and filtering.
 Data Visualization – Designed charts, maps, tables, and slicers to present business insights effectively.
 
-# Features
-# 1. Buiness problem
+
+#  Buiness problem
 Mobile retailers need a way to monitor sales performance across products, locations, and customer purchasing behaviors.      Traditional reports often lack real-time insights and make it difficult to identify trends, compare historical optimize business strategies.
 This Power BI dashboard addresses these challenges by providing a centralized and interactive view of mobile sales data. It enables stakeholders to:
 1. Analyze sales performance by brand, city, and mobile model.
@@ -25,7 +25,7 @@ This Power BI dashboard addresses these challenges by providing a centralized an
 # Dashboard Objective
 To build an interactive Power BI dashboard that provides comprehensive sales insights through KPI tracking, trend analysis, geographical visualization, MTD reporting, and year-over-year comparisons, enabling data-driven decision-making and improved business performance.
 
-# Dahboard preview
+# Dashboard preview
 ![image Alt](https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/Mobile%20sales%20Dashboard.png )
 
 # MTD report
