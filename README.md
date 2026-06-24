@@ -12,7 +12,7 @@ Data Modeling – Established relationships between tables to enable accurate re
 Data Visualization – Designed charts, maps, tables, and slicers to present business insights effectively.
 
 # Features
-1. Buiness problem
+# 1. Buiness problem
 Mobile retailers need a way to monitor sales performance across products, locations, and customer purchasing behaviors.      Traditional reports often lack real-time insights and make it difficult to identify trends, compare historical optimize business strategies.
 This Power BI dashboard addresses these challenges by providing a centralized and interactive view of mobile sales data. It enables stakeholders to:
 1. Analyze sales performance by brand, city, and mobile model.
