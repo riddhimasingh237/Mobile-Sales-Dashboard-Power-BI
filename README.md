@@ -4,12 +4,12 @@ An interactive Power BI dashboard analyzing mobile sales data with KPIs, MTD tra
 This dashboard provides a comprehensive analysis of mobile phone sales performance by tracking key business metrics such as total sales, transactions, quantity sold, and average selling price. It helps stakeholders understand sales trends across different cities, brands, payment methods, months, and years. The dashboard also includes Month-to-Date (MTD) tracking and Year-over-Year comparisons, enabling businesses to monitor growth, identify top-performing products and regions, evaluate customer purchasing behavior, and make data-driven decisions to improve sales performance and profitability.
 
 # Tech Stack
-Power BI – Built interactive dashboards, KPI cards, maps, and visual reports for sales analysis.
-Microsoft Excel – Used as the primary data source for storing and managing sales data.
-Power Query – Cleaned, transformed, and prepared raw data for analysis.
-DAX (Data Analysis Expressions) – Created custom measures and calculations for KPIs, MTD, and YoY analysis.
-Data Modeling – Established relationships between tables to enable accurate reporting and filtering.
-Data Visualization – Designed charts, maps, tables, and slicers to present business insights effectively.
+1. Power BI – Built interactive dashboards, KPI cards, maps, and visual reports for sales analysis.
+2. Microsoft Excel – Used as the primary data source for storing and managing sales data.
+3. Power Query – Cleaned, transformed, and prepared raw data for analysis.
+4. DAX (Data Analysis Expressions) – Created custom measures and calculations for KPIs, MTD, and YoY analysis.
+5. Data Modeling – Established relationships between tables to enable accurate reporting and filtering.
+6. Data Visualization – Designed charts, maps, tables, and slicers to present business insights effectively.
 
 
 #  Buiness problem
