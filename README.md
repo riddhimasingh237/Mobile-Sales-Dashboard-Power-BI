@@ -26,13 +26,13 @@ This Power BI dashboard addresses these challenges by providing a centralized an
 To build an interactive Power BI dashboard that provides comprehensive sales insights through KPI tracking, trend analysis, geographical visualization, MTD reporting, and year-over-year comparisons, enabling data-driven decision-making and improved business performance.
 
 # Dahboard preview
-https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/Mobile%20sales%20Dashboard.png 
+(https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/Mobile%20sales%20Dashboard.png)
 
 # MTD report
-https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/MTD%20sales%20report.png
+(https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/MTD%20sales%20report.png)
 
 # Previous year compriaon
-https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/Previous%20Year%20Sales%20Comparison.png
+(https://github.com/riddhimasingh237/Mobile-Sales-Dashboard-Power-BI/blob/main/Previous%20Year%20Sales%20Comparison.png)
 
 # Conclusion
 The Mobile Sales Analytics Dashboard successfully transforms raw sales data into meaningful business insights through interactive visualizations and KPI tracking. By analyzing sales performance across brands, cities, payment methods, and time periods, the dashboard helps identify growth opportunities, top-performing products, and customer purchasing trends. The inclusion of Month-to-Date (MTD) and Year-over-Year analysis enables stakeholders to monitor performance, evaluate business growth, and make informed decisions. Overall, the dashboard serves as an effective business intelligence solution that enhances reporting efficiency and supports data-driven decision-making in the mobile retail industry.
